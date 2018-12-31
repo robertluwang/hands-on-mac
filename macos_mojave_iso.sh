@@ -10,4 +10,5 @@ sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallme
 mv /tmp/Mojave.cdr.dmg ~/Desktop/InstallSystem.dmg
 hdiutil detach /Volumes/Install\ macOS\ Mojave
 hdiutil convert ~/Desktop/InstallSystem.dmg -format UDTO -o ~/Desktop/Mojave.iso
+mv ~/Desktop/Mojave.iso.cdr ~/Desktop/Mojave.iso
 rm ~/Desktop/InstallSystem.dmg
