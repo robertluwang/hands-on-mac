@@ -2,7 +2,7 @@
 ## make sure the install app ready under /Applications
 when download macOS Mojave from Apple Store, it always download smaller installation app around 14MB, there are few ways to download full package before building up iso image.
 
-### 1) download full package using smaller installatioj app
+### 1) download full package using smaller installation app
 you can click /Applications/Install macOS Mojave.app to start installation, it will download full package to /Applications/macOS \Install \Data, quit or abort before real installation; then move files under /Applications/macOS \Install \Data to /Applications/Install\ macOS\ Mojave.app/Contents/SharedSupport/ .
 
 ### 2) download full package using 
