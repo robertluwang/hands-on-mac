@@ -1,1 +1,1 @@
-# macnotes
+# hands-on mac
